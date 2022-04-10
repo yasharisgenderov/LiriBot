@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.2",
+    "node-spotify-api": "^1.1.1",
+    "twitter": "^1.7.1"
+  }
+}
